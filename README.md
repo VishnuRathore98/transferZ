@@ -27,3 +27,4 @@ Articles covering remaining sections coming soon :wink:.
 Thanks to [Tobaloidee](https://github.com/Tobaloidee), for designing logo and icon for *transferZ* 
 
 :heart:
+[![Run on Repl.it](https://repl.it/badge/github/VishnuRathore98/transferZ)](https://repl.it/github/VishnuRathore98/transferZ)
